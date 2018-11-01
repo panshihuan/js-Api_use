@@ -44,18 +44,10 @@
 # 
 ```
 
-1.  Replace things in [package.json](./package.json) with your own
-2.  Start writting your component and:
+1. 使用
 
     ```bash
-    # develop
-    npm run dev
-
-    # build component
-    npm run build
-
-    # build demo
-    npm run build:demo
+    重在使用
     ```
 
 <br>
