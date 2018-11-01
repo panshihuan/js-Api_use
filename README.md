@@ -41,19 +41,7 @@
 ## Install and Usage
 
 ```bash
-# clone boilerplate
-git clone https://github.com/waynecz/vue-component-boilerplate.git example-name
-
-cd example-name
-
-# delete original git files
-rm -rf .git
-
-# create new one upon link your repo
-git init && git remote add origin {your repo address}
-
-# install dependices
-yarn
+# 
 ```
 
 1.  Replace things in [package.json](./package.json) with your own
