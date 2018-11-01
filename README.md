@@ -35,7 +35,7 @@
 ## Screenshots
 
 <p align="center">
-  <img width="100%" src="./src/assets/screenshot.jpg"/>
+  array、object等各种api使用场景
 </p>
 
 <br>
